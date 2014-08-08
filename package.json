@@ -1,0 +1,8 @@
+{
+  "name": "curlpizza",
+  "version": "0.0.1",
+  "description": "Curl da Pizza",
+  "dependencies": {
+    "jsdom": "~0.11.1"
+  }
+}
